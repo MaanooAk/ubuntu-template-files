@@ -40,6 +40,8 @@ Templates/
 
 Right-click → `New Document` → Choose one of the templates
 
+![screenshot from 2016-12-31 15-12-57](https://cloud.githubusercontent.com/assets/6997990/21577686/bd6c1970-cf6c-11e6-8370-e7843c7530f6.png)
+
 ## Install
 
 In order to install simply run the following commands in a terminal
