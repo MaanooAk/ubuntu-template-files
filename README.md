@@ -6,11 +6,20 @@ All templates:
 <!-- TREE START -->
 ```
 Templates/
-└── Script
-    ├── Bash script.bash
-    ├── Makefile
-    ├── Python script.py
-    └── Unix script.sh
+├── Documents
+│   ├── Markdown.md
+│   ├── Presentation.odp
+│   ├── Spreadsheet.ods
+│   └── Text Document .odt
+├── Script
+│   ├── Bash script.bash
+│   ├── Makefile
+│   ├── Python script.py
+│   └── Unix script.sh
+└── Web
+    ├── CSS.css
+    ├── HTML.html
+    └── JavaScript.js
 ```
 <!-- TREE END -->
 
