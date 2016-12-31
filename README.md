@@ -25,7 +25,7 @@ Templates/
 │   ├── JavaScript.js
 │   ├── Python.py
 │   └── Template
-│       ├── C++ Class Heade.hpp
+│       ├── C++ Class Header.hpp
 │       ├── C++ Class Source.cpp
 │       ├── C Main.c
 │       └── C++ Main.cpp
@@ -52,7 +52,7 @@ make
 
 ```
 
-### Manualy
+### Manually
 
 Copy the contains of the `Templates` folder to the `Home` → `Templates` folder (`~/Templates`).
 
