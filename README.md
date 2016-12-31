@@ -4,6 +4,14 @@ An extension to the "New Document" menu. All the templates are as minimal as pos
 
 All templates:
 <!-- TREE START -->
+```
+Templates/
+└── Script
+    ├── Bash script.bash
+    ├── Makefile
+    ├── Python script.py
+    └── Unix script.sh
+```
 <!-- TREE END -->
 
 ## Usage
