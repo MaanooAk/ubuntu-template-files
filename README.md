@@ -1,6 +1,6 @@
 # Ubuntu template files
 
-An extension to the "New Document" menu. All the templates are as minimal as possible
+An extension to the "New Document" menu (*as minimal as possible*).
 
 All templates:
 <!-- TREE START -->
@@ -51,6 +51,8 @@ cd ubuntu-template-files
 make
 
 ```
+
+**Warning:** You need to **restart** Ubuntu to be able to see all installed templates.
 
 ### Manually
 
